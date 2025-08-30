@@ -1,0 +1,2 @@
+# Bukti-bukti
+Fokus titik
