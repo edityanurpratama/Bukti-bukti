@@ -9,3 +9,5 @@ Fokus titik
 "https://www.threads.com/@riinwt_/post/DN_spmYEwzh?xmt=AQF0ZphnzMcj_IkKtJxXReU34Lbye9lGcdIuWkOEdp-WKQ&slof=1"
 
 "https://www.threads.com/@riinwt_/post/DN_spmYEwzh?xmt=AQF0VXcA19GeQExRmR4K8MLlcuoGRMDIRd1LgM1AA9sw7A&slof=1"
+
+"https://www.threads.com/@shuqj65/post/DN_oVpuk08M?xmt=AQF0IB-JQlLHTpH0HTJ9aIyMSl3GttUwbHMMyUPaHHY77A&slof=1"
