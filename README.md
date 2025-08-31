@@ -11,3 +11,7 @@ Fokus titik
 "https://www.threads.com/@riinwt_/post/DN_spmYEwzh?xmt=AQF0VXcA19GeQExRmR4K8MLlcuoGRMDIRd1LgM1AA9sw7A&slof=1"
 
 "https://www.threads.com/@shuqj65/post/DN_oVpuk08M?xmt=AQF0IB-JQlLHTpH0HTJ9aIyMSl3GttUwbHMMyUPaHHY77A&slof=1"
+
+"https://www.threads.com/@ryaaaaaaan_4/post/DN-TPXJEvIU?xmt=AQF0iY2tR3n-L6GkNnsqqaKpTjW6B9Pn3kzQyY7Z8Muyxg&slof=1"
+
+"https://www.threads.com/@tomwibowo/post/DN_OdjFE3hK?xmt=AQF0lJer6yfmv1_5z66pp117CWyJnS-PfgFJPlZGlJDE_w&slof=1"
