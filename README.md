@@ -22,4 +22,6 @@ Fokus titik
 
 "https://www.facebook.com/share/r/1BMavZEPoH/"
 
-""https://www.facebook.com/share/v/196UStGdot/
+"https://www.facebook.com/share/v/196UStGdot/"
+
+"https://www.instagram.com/reel/DN8dlCwk9to/?igsh=MXJpb2UxaWtwMWR2YQ=="
