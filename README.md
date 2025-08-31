@@ -27,3 +27,5 @@ Fokus titik
 "https://www.instagram.com/reel/DN8dlCwk9to/?igsh=MXJpb2UxaWtwMWR2YQ=="
 
 "https://www.facebook.com/share/v/1CVnXcL4XN/"
+
+"https://www.facebook.com/share/v/16UzD7mp3E/"
