@@ -18,3 +18,6 @@ Fokus titik
 
 
 "https://www.threads.com/@tomwibowo/post/DN_OdjFE3hK?xmt=AQF0qHIKhnMngLo5AmjIYxxcNg6rtTI7K8EsOYTHwk9fRQ&slof=1"
+
+
+"https://www.facebook.com/share/r/1BMavZEPoH/"
