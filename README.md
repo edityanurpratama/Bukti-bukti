@@ -21,3 +21,5 @@ Fokus titik
 
 
 "https://www.facebook.com/share/r/1BMavZEPoH/"
+
+""https://www.facebook.com/share/v/196UStGdot/
